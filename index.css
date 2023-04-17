@@ -113,4 +113,9 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-
+.footer {
+    background-color: aliceblue;
+    padding: 1em 0;
+    text-align: center;
+    margin-top: auto;
+}
